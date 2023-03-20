@@ -1,0 +1,161 @@
+
+
+@media(max-width: 636px){
+
+    .nav__content-box{
+        display: none;
+    }
+
+    .nav__content-list{
+        display: none;
+    }
+
+    .hamburger-menu{
+        display: block;
+    }
+
+    .nav__content-title{
+        margin-right: 15px;
+    }
+
+}
+
+
+
+@media(max-width: 1049px){
+
+    .header__content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .header__left-title{
+        padding-top: 50px;
+        font-size: 55px;
+    }
+
+}
+
+@media(max-width: 470px){
+
+    .header__left-title{
+        font-size: 45px;
+    }
+
+}
+
+
+@media(max-width: 385px){
+
+    .header__left-title{
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .header__left-text{
+        font-size: 20px;
+    }
+
+}
+
+
+
+@media(max-width: 1064px){
+
+    .seller__content-cards{
+        display: flex;
+        justify-content: center;
+    }
+
+    .card2{
+        padding-bottom: 50px;
+    }
+
+}
+
+
+@media(max-width: 936px){
+
+    .people__content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .people__right-title{
+        padding-top: 20px;
+    }
+
+}
+
+
+
+@media(max-width: 417px){
+
+    .people__content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .people__img{
+        width: 250px;
+    }
+
+    .people__right-text{
+        font-size: 29px;
+        line-height: 30px;
+    }
+
+}
+
+
+
+@media(max-width: 936px){
+
+    .culture__content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .culture__right-title{
+        /* padding-top: 20px; */
+    }
+
+    .culture__left-link{
+        padding-bottom: 20px;
+    }
+
+    .culture__content-left{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 0;
+    }
+
+
+
+}
+
+
+
+@media(max-width: 417px){
+
+    .people__content{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .people__img{
+        width: 250px;
+    }
+
+    .people__right-text{
+        font-size: 29px;
+        line-height: 30px;
+    }
+
+}
